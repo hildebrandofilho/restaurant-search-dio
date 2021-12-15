@@ -2,7 +2,10 @@
 
 Criação de um sistema web de busca de restaurantes, parecido com o serviço que o Google oferece. Usando ReactJS e API do Google.
 
+![banner](https://github.com/hildebrandofilho/restaurants-search-dio/blob/main/readme.png)
+
 ## Tecnologias
 - ReactJS
+- Redux
 - Styled Componets
 - Google Maps API
