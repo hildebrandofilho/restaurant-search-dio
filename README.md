@@ -6,6 +6,7 @@ Criação de um sistema web de busca de restaurantes, parecido com o serviço qu
 
 ## Tecnologias
 - ReactJS
+- React Hooks
 - Redux
 - Styled Componets
 - Google Maps API
